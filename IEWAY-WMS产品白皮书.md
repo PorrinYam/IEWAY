@@ -6,11 +6,6 @@
 
 产品定位于服务大中型客户群体，覆盖第三仓储业务领域。提供制造业特性的专业解决方案。
 
-![general](img/general.png)
-
-If you want Typora to auto save content when quit or close, without popping up a confirm dialog, please **uncheck** the checkbox one.
-
-If you want Typora to restore all windows/documents when restart, please **uncheck** the checkbox two.
 
 ## Windows/Linux 
 
