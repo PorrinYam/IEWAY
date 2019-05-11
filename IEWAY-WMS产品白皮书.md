@@ -16,5 +16,8 @@
 # ![Aaron Swartz](https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/APP%20WINDOWS.jpg)   
 ### BS界面
 # ![Aaron Swartz]( https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/BS%20WINDOWS.jpg)   
-### BS清单
+### 功能
+## BS功能
 # ![Aaron Swartz]( https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/BS%20insex.jpg)   
+## 移动端功能
+# ![Aaron Swartz]( https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/APP%20list.jpg) 
