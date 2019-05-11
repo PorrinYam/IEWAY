@@ -1,4 +1,4 @@
- [toc]  
+i5ting_toc -f sample.md -o
 # ![Aaron Swartz](https://github.com/kukukuma/IEWAY/raw/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/logel.jpg)  
 # 英易伟IEWAY-WMS
 
