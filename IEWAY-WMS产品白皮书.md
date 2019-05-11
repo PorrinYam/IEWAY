@@ -32,3 +32,6 @@
 ## 移动端功能
 # ![Aaron Swartz]( https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/APP%20list.jpg)   
 以上为标准版功能配置，实际情况可根据客户需求进行调整增加模块  
+## 操作手册
+
+[BS操作手册](http://write.blog.csdn.net/postlist?_blank)  
