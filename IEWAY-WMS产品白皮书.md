@@ -13,8 +13,7 @@
 可与wms的app端，ERP交互操作，实现更全面更完整更强大的仓储管理，优化效率。
 可加入亮灯，扫码机，平板等个性化定制配置。
 ## 特写功能
-<a href="http://write.blog.csdn.net/postlist" target="_blank">http://write.blog.csdn.net/postlist</a>
-[Aaron Swartz]( http://write.blog.csdn.net/postlist?_blank)  
+[亮灯看板]( http://write.blog.csdn.net/postlist?_blank)  
 ## 界面 
 
 ### BS界面
