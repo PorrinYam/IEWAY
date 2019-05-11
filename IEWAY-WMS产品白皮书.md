@@ -12,11 +12,12 @@
 可与wms的app端，ERP交互操作，实现更全面更完整更强大的仓储管理，优化效率。
 可加入亮灯，扫码机，平板等个性化定制配置。
 ## 界面 
-### 移动端界面
-# ![Aaron Swartz](https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/APP%20WINDOWS.jpg)  
 
 ### BS界面
 # ![Aaron Swartz]( https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/BS%20WINDOWS.jpg)  
+### 移动端界面
+# ![Aaron Swartz](https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/APP%20WINDOWS.jpg)  
+
 以上为标准版界面配置，实际情况可根据客户需求进行调整增加模块  
 ### 功能
 ## BS功能
