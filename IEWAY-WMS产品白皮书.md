@@ -1,4 +1,4 @@
-i5ting_toc -f sample.md -o
+
 # ![Aaron Swartz](https://github.com/kukukuma/IEWAY/raw/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/logel.jpg)  
 # 英易伟IEWAY-WMS
 
@@ -9,10 +9,11 @@ i5ting_toc -f sample.md -o
 ## 目标 
 简化仓库作业，确保管理规范确切执行，优化作业，提高效率，实现智能化仓库管理。
 
-## 功能
+## 基本功能
 可与wms的app端，ERP交互操作，实现更全面更完整更强大的仓储管理，优化效率。
 可加入亮灯，扫码机，平板等个性化定制配置。
-
+## 特写功能
+<a href="http://write.blog.csdn.net/postlist" target="view_window">http://write.blog.csdn.net/postlist</a>
 ## 界面 
 
 ### BS界面
