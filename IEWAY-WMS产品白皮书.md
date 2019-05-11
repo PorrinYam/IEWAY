@@ -1,3 +1,4 @@
+[toc]
 # ![Aaron Swartz](https://github.com/kukukuma/IEWAY/raw/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/logel.jpg)  
 # 英易伟IEWAY-WMS
 
@@ -11,6 +12,7 @@
 ## 功能
 可与wms的app端，ERP交互操作，实现更全面更完整更强大的仓储管理，优化效率。
 可加入亮灯，扫码机，平板等个性化定制配置。
+
 ## 界面 
 
 ### BS界面
