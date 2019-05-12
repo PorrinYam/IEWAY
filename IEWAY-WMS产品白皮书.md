@@ -47,7 +47,7 @@ WMS系统集成了仓内的智能设备，提供仓储软硬件一体化解决�
 # ![Aaron Swartz](https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/APP%20WINDOWS.jpg)  
 
 ## 特色功能
-1  [一码管理](http://write.blog.csdn.net/postlist?_blank)  
+(1)  [一码管理](http://write.blog.csdn.net/postlist?_blank)  
 [亮灯看板](http://write.blog.csdn.net/postlist?_blank)  
 [任务管理](http://write.blog.csdn.net/postlist?_blank)  
 
