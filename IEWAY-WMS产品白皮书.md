@@ -32,11 +32,6 @@ WMS系统集成了仓内的智能设备，提供仓储软硬件一体化解决�
 库位/库区/
 
 
-## 特色功能
-
-[亮灯看板](http://write.blog.csdn.net/postlist?_blank)  
-[任务管理](http://write.blog.csdn.net/postlist?_blank)  
-[一码管理](http://write.blog.csdn.net/postlist?_blank)  
 ## 界面 
 
 ### BS界面
@@ -44,13 +39,11 @@ WMS系统集成了仓内的智能设备，提供仓储软硬件一体化解决�
 ### 移动端界面
 # ![Aaron Swartz](https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/APP%20WINDOWS.jpg)  
 
-### 功能
-## BS功能
-# ![Aaron Swartz]( https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/BS%20insex.jpg)    
+## 特色功能
 
-## 移动端功能
-# ![Aaron Swartz]( https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/APP%20list.jpg)   
-
+[亮灯看板](http://write.blog.csdn.net/postlist?_blank)  
+[任务管理](http://write.blog.csdn.net/postlist?_blank)  
+[一码管理](http://write.blog.csdn.net/postlist?_blank)  
 ## 操作手册
 
 [BS操作手册](http://write.blog.csdn.net/postlist?_blank)  
