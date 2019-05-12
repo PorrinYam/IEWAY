@@ -4,7 +4,9 @@
 
 ## 精准管控企业资产管理流程，助力企业资本良性循环
 英易伟IEWAY-WMS可满足制造业精细化的库存管理需求，全面提升仓储作业工作效率。
-产品定位于服务大中型客户群体，覆盖第三仓储业务领域。提供制造业特性的专业解决方案。  
+产品覆盖第三仓储业务领域，提供制造业特性的专业解决方案。  
+
+## 制造业方案
 
 ## 目标 
 简化仓库作业，确保管理规范确切执行，优化作业，提高效率，实现智能化仓库管理。
@@ -27,7 +29,7 @@ WMS系统集成了仓内的智能设备，提供仓储软硬件一体化解决�
 
 客户档案/产品档案
 批次属性/包装
-库位/库区/循环级别
+库位/库区/
 
 
 ## 特色功能
@@ -42,14 +44,13 @@ WMS系统集成了仓内的智能设备，提供仓储软硬件一体化解决�
 ### 移动端界面
 # ![Aaron Swartz](https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/APP%20WINDOWS.jpg)  
 
-以上为标准版界面配置，实际情况可根据客户需求进行调整增加模块  
 ### 功能
 ## BS功能
 # ![Aaron Swartz]( https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/BS%20insex.jpg)    
 
 ## 移动端功能
 # ![Aaron Swartz]( https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/APP%20list.jpg)   
-以上为标准版功能配置，实际情况可根据客户需求进行调整增加模块  
+
 ## 操作手册
 
 [BS操作手册](http://write.blog.csdn.net/postlist?_blank)  
