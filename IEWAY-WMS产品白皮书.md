@@ -30,8 +30,11 @@ WMS系统集成了仓内的智能设备，提供仓储软硬件一体化解决�
 客户档案/产品档案
 批次属性/包装
 库位/库区/
-
-
+###  <img src="https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/yewu.png" width="50" hegiht="31" align=center /> 业务规则
+上架规则/质检规则
+周转/预配/分配规则
+补货规则/序列号规则
+波次计划规则/配送规则
 ## 界面 
 
 ### BS界面
