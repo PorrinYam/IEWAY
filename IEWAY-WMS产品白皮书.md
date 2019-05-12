@@ -22,7 +22,9 @@ WMS系统功能高度可配置，功能实现无需二次开发或仅需极少�
 WMS系统集成了仓内的智能设备，提供仓储软硬件一体化解决方案，保证了仓内作业的连贯性。可与wms的app端，ERP交互操作，实现更全面更完整更强大的仓储管理，优化效率。
 
 ## 产品一览
-### [基础设置](https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/setlogal%20.png=20x300)  
+
+###  <img src="https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/setlogal%20.png" width="50" hegiht="31" align=center /> 基础设置
+
 客户档案/产品档案
 批次属性/包装
 库位/库区/循环级别
