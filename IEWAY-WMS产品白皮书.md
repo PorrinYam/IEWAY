@@ -42,6 +42,8 @@ WMS系统集成了仓内的智能设备，提供仓储软硬件一体化解决�
 ### 条形码确认规则
 ## 设计思想
 ### 基于ERP系统管理开发，实现与业务管理一体化
+<img src="https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/ERP.png" width="1000" hegiht="610" align=center />
+
 ### 针对行业特点，设计开发
  <img src="https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/YEWU.png" width="1000" hegiht="610" align=center />
 
