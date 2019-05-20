@@ -33,8 +33,17 @@ WMS系统集成了仓内的智能设备，提供仓储软硬件一体化解决�
 <img src="https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/wmsyilan.jpg" width="1000" hegiht="610" align=center />
 
 ## 条形码技术
+整个入库全程条码管理，确保入库准确性及效率；
+WMS与JDE通过接口方案，无缝对接。WMS会获取相关信息:供应商信息、订单信息、商品信息（根据要求可以管控到生产日期、批次等）
+商品到货，收货人员可以通过条码扫描进行收货。WMS实时核对商品与订单的正确性；
+对于需要质检的商品，WMS全程记录供应商送货的良品率、不良品信息等情况；
+上架时，系统推荐商品上架货位，扫描箱码再扫描库位条码，系统记录上架信息，完成上架；
+同时系统支持操作人员自行安排货位摆放。
+
 ### 条形码确认规则
-## 设计思想
+<img src="https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/qrcode1.jpg" width="300" hegiht="150" align=center />
+<img src="https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/qrcode2.jpg" width="300" hegiht="150" align=center />
+<img src="https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/qrcode3.jpg" width="300" hegiht="150" align=center />
 ### 基于ERP系统管理开发，实现与业务管理一体化
 <img src="https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/ERP.png" width="1000" hegiht="610" align=center />
 
