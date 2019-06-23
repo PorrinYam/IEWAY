@@ -79,9 +79,9 @@ WMS与JDE通过接口方案，无缝对接。  WMS会获取相关信息:供应�
 <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/storageno66.png" width="200" hegiht="210" align=center />  
 
 ### 基于ERP系统管理开发，实现与业务管理一体化
-<img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/duijie.png" width="200" hegiht="210" align=center />  
+<img src="https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/duijie.png" width="200" hegiht="210" align=center />  
 <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/zongjie.png" width="200" hegiht="210" align=center />  
-<img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/zongjie1.png" width="200" hegiht="210" align=center />  
+<img src="https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/zongjie1.png" width="200" hegiht="210" align=center />  
 
 ### 针对行业特点，设计开发
 
