@@ -65,7 +65,8 @@ WMS与JDE通过接口方案，无缝对接。  WMS会获取相关信息:供应�
 
 
 ## 仓库货架布局  
-横列式布局: 优点主通道长且宽，副通道短，整齐美观，便于存取差点，有利于通风和采光。
+横列式布局: 优点主通道长且宽，副通道短，整齐美观，便于存取差点，有利于通风和采光  
+  
 <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/storageno1.png" width="200" hegiht="210" align=center />
 <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/storageno2.png" width="200" hegiht="210" align=center />  
 纵列式布局:优点可以根据库存物品在库时间的不同和进出频繁程度安排货位；在库时间短、进出频繁的物品放在主通道两侧，在库时间长，进出不频繁的物品放在里侧。
@@ -79,10 +80,10 @@ WMS与JDE通过接口方案，无缝对接。  WMS会获取相关信息:供应�
 ## WMS基础规划
 <img src="https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/wmsyilan.jpg" width="1000" hegiht="610" align=center />
 ### 基于ERP系统管理开发，实现与业务管理一体化
-<img src="https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/ERP.png" width="1000" hegiht="610" align=center />
+
 
 ### 针对行业特点，设计开发
- <img src="https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/YEWU.png" width="1000" hegiht="610" align=center />
+
 
 ## 产品一览
 
