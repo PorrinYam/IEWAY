@@ -6,7 +6,9 @@
 英易伟IEWAY-WMS可满足制造业精细化的库存管理需求，全面提升仓储作业工作效率。
 产品覆盖第三仓储业务领域，提供以制造业为主，多行业特性的专业解决方案。  
 ### FlyWMS– 为制造业精心打造的智能仓储物控管理系统
-<img src="https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/zongjie1.png"  width="1000" hegiht="610"align=center />  
+ 
+<img src="https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/zongjie1.png"  width="1000" hegiht="610" align=center />  
+
 ## 仓库管理现场情况
   堆放无序，找货难，收发效率低下;  发错物料，出错货，造成严重后果
   无批无码，追溯难，难给客户交待  
