@@ -54,10 +54,15 @@ WMS系统集成了仓内的智能设备，提供仓储软硬件一体化解决�
 
 <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/storagerfid.png" width="1000" hegiht="610" align=center />
 <img src="https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/qrcode3.jpg" width="300" hegiht="150" align=center />
-
+整个入库全程条码管理，确保入库准确性及效率；
+WMS与JDE通过接口方案，无缝对接。WMS会获取相关信息:供应商信息、订单信息、商品信息（根据要求可以管控到生产日期、批次等）
+商品到货，收货人员可以通过条码扫描进行收货。WMS实时核对商品与订单的正确性；
+对于需要质检的商品，WMS全程记录供应商送货的良品率、不良品信息等情况；
+上架时，系统推荐商品上架货位，扫描箱码再扫描库位条码，系统记录上架信息，完成上架；
+同时系统支持操作人员自行安排货位摆放
 ## 仓库规划
-<img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/cangkuguihua.png" width="800" hegiht="610" align=center />  
-### 仓库货架布局
+<img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/cangkuguihua.png" width="800" hegiht="610" align=center />
+## 仓库货架布局
 横列式布局: 优点主通道长且宽，副通道短，整齐美观，便于存取差点，有利于通风和采光。
 <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/storageno1.png" width="200" hegiht="210" align=center />
 <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/storageno2.png" width="200" hegiht="210" align=center />  
