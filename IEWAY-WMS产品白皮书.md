@@ -59,15 +59,21 @@ WMS与JDE通过接口方案，无缝对接。WMS会获取相关信息:供应商�
 商品到货，收货人员可以通过条码扫描进行收货。WMS实时核对商品与订单的正确性；
 对于需要质检的商品，WMS全程记录供应商送货的良品率、不良品信息等情况；
 上架时，系统推荐商品上架货位，扫描箱码再扫描库位条码，系统记录上架信息，完成上架；
-同时系统支持操作人员自行安排货位摆放。  
+同时系统支持操作人员自行安排货位摆放
 ## 仓库规划
 <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/cangkuguihua.png" width="800" hegiht="610" align=center />
+### 仓库货架布局  
+横列式布局: 优点主通道长且宽，副通道短，整齐美观，便于存取差点，有利于通风和采光。
 <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/storageno1.png" width="200" hegiht="210" align=center />
-<img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/storageno2.png" width="200" hegiht="210" align=center />
+<img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/storageno2.png" width="200" hegiht="210" align=center />  
+纵列式布局:优点可以根据库存物品在库时间的不同和进出频繁程度安排货位；在库时间短、进出频繁的物品放在主通道两侧，在库时间长，进出不频繁的物品放在里侧。
+
 <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/storageno3.png" width="200" hegiht="210" align=center />
-<img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/storageno4.png" width="200" hegiht="210" align=center />
+<img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/storageno4.png" width="200" hegiht="210" align=center />  
+纵横（混合）式布局:可以综合利用两种布局的优点。
+
 <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/storageno5.png" width="200" hegiht="210" align=center />
-<img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/storageno66.png" width="200" hegiht="210" align=center />
+<img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/storageno66.png" width="200" hegiht="210" align=center />  
 ## WMS基础规划
 <img src="https://github.com/kukukuma/IEWAY/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%9B%BE%E7%89%87/wmsyilan.jpg" width="1000" hegiht="610" align=center />
 ### 基于ERP系统管理开发，实现与业务管理一体化
