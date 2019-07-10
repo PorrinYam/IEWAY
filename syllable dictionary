@@ -1,1 +1,8 @@
 mcode-物料编号  
+mname-物料名称  
+sprc- 规格型号  
+typeno-类别编号
+typename-类别名称
+safenum-安全库存量
+endqty-库存数量  
+chargeno-负责人编号
