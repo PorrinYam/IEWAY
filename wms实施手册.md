@@ -27,6 +27,7 @@
 ## 2.1仓库设置
 ### 2.1.1 仓库的分类
 仓库的分类设置的物控才可被通知单视为可用库存，纳入分配
+ <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/wms%E5%AE%9E%E6%96%BD%E6%89%8B%E5%86%8C%E5%9B%BE%E7%89%87/2.1.1-1.jpg"  width="1000" hegiht="610" align=center />  
  
 # 3参数设置（见附件）
  
@@ -66,6 +67,7 @@
 ## 10.3 半成品制作
 ### 10.3.1发起领料通知单，并打单  
   <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/wms%E5%AE%9E%E6%96%BD%E6%89%8B%E5%86%8C%E5%9B%BE%E7%89%87/10.3.1-1.jpg"  width="1000" hegiht="610" align=center /> 
+  ----------
    <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/wms%E5%AE%9E%E6%96%BD%E6%89%8B%E5%86%8C%E5%9B%BE%E7%89%87/10.3.1-2.jpg"  width="1000" hegiht="610" align=center /> 
   
 
@@ -73,6 +75,7 @@
 ### 10.3.2车间领料（在移动端操作，操作详情可在操作手册中查看） ：
 扫箱外二维码以及板位二维码领料出库
   <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/wms%E5%AE%9E%E6%96%BD%E6%89%8B%E5%86%8C%E5%9B%BE%E7%89%87/10.3.2-1.jpg"  width="1000" hegiht="610" align=center /> 
+  ----------
    <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/wms%E5%AE%9E%E6%96%BD%E6%89%8B%E5%86%8C%E5%9B%BE%E7%89%87/10.3.2-2.jpg"  width="1000" hegiht="610" align=center /> 
   
 ## 10.4 （半）成品完成后，发起自制入库通知
@@ -86,11 +89,13 @@
 ### 10.4.2 移动端入库
 此处直接上架 ，扫外箱二维码或通知单
    <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/wms%E5%AE%9E%E6%96%BD%E6%89%8B%E5%86%8C%E5%9B%BE%E7%89%87/10.4.2-1.jpg"  width="1000" hegiht="610" align=center /> 
+   ----------
       <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/wms%E5%AE%9E%E6%96%BD%E6%89%8B%E5%86%8C%E5%9B%BE%E7%89%87/10.4.2-2.jpg"  width="1000" hegiht="610" align=center /> 
    
 ## 10.5 销售出库
 ### 10.5.1发起销售通知单并打单    
 <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/wms%E5%AE%9E%E6%96%BD%E6%89%8B%E5%86%8C%E5%9B%BE%E7%89%87/10.5.1-1.jpg"  width="1000" hegiht="610" align=center />   
+----------
    <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/wms%E5%AE%9E%E6%96%BD%E6%89%8B%E5%86%8C%E5%9B%BE%E7%89%87/10.5.1-2.jpg"  width="1000" hegiht="610" align=center /> 
  
   
