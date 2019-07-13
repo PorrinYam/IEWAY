@@ -1,4 +1,5 @@
-# Wms(Base版)实施手册
+# Wms(Base版)实施手册  
+----------
 # 1.基础资料设置：
 ## 1.1物料资料设置
 ### 1.1.1默认仓位
@@ -12,10 +13,14 @@
  
 有批次管理效果图如下  
 <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/wms%E5%AE%9E%E6%96%BD%E6%89%8B%E5%86%8C%E5%9B%BE%E7%89%87/1.1.3.1-1.jpg"  width="1000" hegiht="610" align=center />    
+
+----------
 <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/wms%E5%AE%9E%E6%96%BD%E6%89%8B%E5%86%8C%E5%9B%BE%E7%89%87/1.1.3.1-2.jpg"  width="1000" hegiht="610" align=center />  
  
 #### 1.1.3.2无批次管理  
 <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/wms%E5%AE%9E%E6%96%BD%E6%89%8B%E5%86%8C%E5%9B%BE%E7%89%87/1.1.3.2-1.jpg"  width="1000" hegiht="610" align=center />    
+
+----------
 <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/wms%E5%AE%9E%E6%96%BD%E6%89%8B%E5%86%8C%E5%9B%BE%E7%89%87/1.1.3.2-2.jpg"  width="1000" hegiht="610" align=center />  
  
 # 2仓库 
@@ -31,7 +36,7 @@
 ## 10.1接到订单或计划生产
 ### 10.1.1订单：
  <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/wms%E5%AE%9E%E6%96%BD%E6%89%8B%E5%86%8C%E5%9B%BE%E7%89%87/10.1.1-1.jpg"  width="1000" hegiht="610" align=center />    
- .jpg"  width="1000" hegiht="610" align=center />  
+
 
 ### 10.1.2下发制令：
 需要制作一个全自动电饭煲（160002），其中包括三种原材料和一个半成品
@@ -44,6 +49,8 @@
  
 ## 10.2供应商发出采购订单，采购原材料
   <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/wms%E5%AE%9E%E6%96%BD%E6%89%8B%E5%86%8C%E5%9B%BE%E7%89%87/10.2-1.jpg"  width="1000" hegiht="610" align=center /> 
+  
+----------
  <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/wms%E5%AE%9E%E6%96%BD%E6%89%8B%E5%86%8C%E5%9B%BE%E7%89%87/10.2-2.jpg"  width="1000" hegiht="610" align=center /> 
 ### 10.2.1供应商或客户打标签，贴外箱：原单为订单或通知单
  
