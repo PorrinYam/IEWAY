@@ -1,5 +1,6 @@
-# Wms(Base版)实施手册  
+# 一、初始化设置
 ----------
+# 二、基础设置
 # 1.基础资料设置：
 ## 1.1物料资料设置
 ### 1.1.1默认仓位
@@ -22,16 +23,17 @@
 
 ----------
  <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/wms%E5%AE%9E%E6%96%BD%E6%89%8B%E5%86%8C%E5%9B%BE%E7%89%87/1.1.3.2-2.jpg"  width="1000" hegiht="610" align=center />  
- 
+----------
 # 2仓库 
 ## 2.1仓库设置
 ### 2.1.1 仓库的分类
 仓库的分类设置的物控才可被通知单视为可用库存，纳入分配
  <img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/wms%E5%AE%9E%E6%96%BD%E6%89%8B%E5%86%8C%E5%9B%BE%E7%89%87/2.1.1-1.jpg"  width="1000" hegiht="610" align=center />  
  
-# 3参数设置（见附件）
+# 参数设置（见附件）
  
-
+----------
+# 库存流动
 # 10  生产自制品
 
 ## 10.1接到订单或计划生产
