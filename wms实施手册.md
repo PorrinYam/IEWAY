@@ -2,6 +2,7 @@
 # 1.基础资料设置：
 ## 1.1物料资料设置
 ### 1.1.1默认仓位
+<img src="https://raw.githubusercontent.com/kukukuma/IEWAY/master/wms%E5%AE%9E%E6%96%BD%E6%89%8B%E5%86%8C%E5%9B%BE%E7%89%87/1.1.1-1.jpg"  width="1000" hegiht="610" align=center />  
  
 ### 1.1.2物料辅助属性
  
